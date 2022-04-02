@@ -1,0 +1,32 @@
+p {
+    text-align: center;
+    font-size: 20px;
+}
+/* p – это селектор, text-align и font-size – это свойства, а center и 20px – значения. */
+
+.paragraph-class {
+    background-color: aqua;
+}
+
+#paragraph-id {
+    float: left;
+}
+
+p:first-of-type {
+    background-color: beige;
+}
+
+a.snowman:link {
+    color: blue;
+}
+a.snowman:visited {
+    color: purple;
+}
+a.snowman:active {
+    color: red;
+}
+a.snowman:hover {
+    text-decoration: none;
+    color: blue;
+    background-color: yellow;
+}
