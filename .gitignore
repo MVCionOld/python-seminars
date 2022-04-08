@@ -116,3 +116,4 @@ config.env
 /calls.csv
 /data/raw/
 /data/
+*.DS_Store*
