@@ -1,4 +1,4 @@
-# mipt-atp-python-seminars
+# python-seminars
 ---
 Это репозиторий с материалами семинаров по курсу "Практикум Python".
 
